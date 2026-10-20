@@ -54,7 +54,7 @@ const CodeVersePopup = () => {
                             </p>
 
                             <a 
-                                href="https://codeverse26-nikz.onrender.com/" 
+                                href="https://codeverse-2-0-vfgn.onrender.com" 
                                 target="_blank" 
                                 rel="noopener noreferrer" 
                                 className="codeverse-popup-btn"
